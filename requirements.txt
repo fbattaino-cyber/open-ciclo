@@ -3,3 +3,5 @@ pandas==2.2.3
 pandas_ta==0.3.14b0
 python-dotenv==1.0.1
 plotly==5.19.0
+pandas==2.2.3
+pandas_ta==0.3.14b0

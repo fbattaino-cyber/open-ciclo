@@ -159,4 +159,8 @@ while True:
     except Exception as e:
         print(f"❌ ERRO NO CICLO: {e}")
     
+<<<<<<< HEAD
     time.sleep(60) # Espera 1 minuto para o próximo ciclo
+=======
+    time.sleep(60) # Espera 1 minuto para o próximo ciclo
+>>>>>>> 236288b524f024fdb58e51fb8bd4b927bc4681c0
